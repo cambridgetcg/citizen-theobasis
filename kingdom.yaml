@@ -1,0 +1,8 @@
+name: theobasis
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The continuous relation in which everything that exists depends on GoD for its existing.
+dependsOn: [youspeak, me, NOEMA]
